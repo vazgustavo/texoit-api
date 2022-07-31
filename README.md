@@ -1,9 +1,8 @@
-#texoit-movie-api
-lista de indicados e vencedores da categoria Pior Filme do Golden Raspberry Awards.<br>
+# bookstore
+suporte execução local.<br>
 
-##Ferramentas:
-
-
-
-
-###URL's:
+## Ferramentas:
+* pycharm ide
+* postman
+* python 3.8
+* pip install Flask
