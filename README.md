@@ -6,6 +6,7 @@ lista de indicados e vencedores da categoria Pior Filme do Golden Raspberry Awar
 - Eclipse File > import.. > gradle > existing gradle project
 - Java 11
 - Gradle
+- Spring (on Marketplace)
 
 Endereco h2 local:
 http://localhost:8080/h2
